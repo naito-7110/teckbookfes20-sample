@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/oxfmt/configuration_schema.json",
+  "semi": false,
+  "singleQuote": true,
+  "singleAttributePerLine": true,
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "bracketSameLine": true,
+  "printWidth": 80,
+  "tabWidth": 2,
+  "insertFinalNewline": true,
+  "experimentalSortPackageJson": true,
+  "embeddedLanguageFormatting": "auto"
+}
